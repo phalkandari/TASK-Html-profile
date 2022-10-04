@@ -1,11 +1,26 @@
 h1 {
     font-family: 'Times New Roman';
+    border: 2px solid red;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h2 {
+    border: 2px solid red;
+    border-radius: 5px;
+    text-align: center;
 }
 
 img {
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 .hobbies {
     background-color:aqua;
@@ -23,3 +38,4 @@ img {
     background-color: black;
     color: white;
 }
+
