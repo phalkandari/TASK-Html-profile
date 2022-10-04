@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Times New Roman';
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.hobbies {
+    background-color:aqua;
+}
+
+.section-1 {
+    background-color:antiquewhite;
+}
+
+.section-2 {
+    background-color:azure;
+}
+
+.section-3 {
+    background-color: black;
+    color: white;
+}
